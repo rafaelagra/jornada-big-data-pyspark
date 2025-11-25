@@ -59,7 +59,6 @@ Todos os notebooks:
 
 # 🎓 Objetivo Final  
 Este repositório serve como portfólio prático, demonstrando domínio progressivo de PySpark aplicado a cenários de Big Data — da coleta às análises avançadas e machine learning.  
-Ele complementa o futuro projeto de Big Data que será publicado separadamente com foco em caso real de negócio.
 
 ---
 
