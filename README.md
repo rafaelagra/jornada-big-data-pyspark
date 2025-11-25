@@ -75,5 +75,6 @@ Este repositório serve como portfólio prático, demonstrando domínio progress
 
 # 📬 Contato  
 **Rafael Agra**  
-🔗 GitHub: https://github.com/rafaelagra    
+🔗 GitHub: https://github.com/rafaelagra 
+Linkedin: https://www.linkedin.com/in/rafael-agra-201005355/
 
