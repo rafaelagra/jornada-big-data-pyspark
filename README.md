@@ -1,5 +1,5 @@
 # 🧭 Jornada Big Data com PySpark  
-Repositório com atividades práticas, organizadas e totalmente comentadas, desenvolvidas ao longo dos módulos de Big Data utilizando PySpark.  
+Repositório com atividades práticas, organizadas e totalmente comentadas, desenvolvidas ao longo dos módulos de Big Data utilizando PySpark do curso de Análise de Dados da EBAC. 
 Cada notebook reflete uma etapa real do fluxo de dados: coleta, preparação, transformação, consultas avançadas, otimização, integração e análise em larga escala.
 
 ---
